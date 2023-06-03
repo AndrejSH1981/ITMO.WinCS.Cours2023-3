@@ -1,0 +1,11 @@
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023.lab1_up4_MdiApplication\bin\Debug\ITMO.WinCSCours2023.lab1_up4_MdiApplication.exe.config
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023.lab1_up4_MdiApplication\bin\Debug\ITMO.WinCSCours2023.lab1_up4_MdiApplication.exe
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023.lab1_up4_MdiApplication\bin\Debug\ITMO.WinCSCours2023.lab1_up4_MdiApplication.pdb
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023.lab1_up4_MdiApplication\obj\Debug\ITMO.WinCSCours2023.lab1_up4_MdiApplication.csproj.AssemblyReference.cache
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023.lab1_up4_MdiApplication\obj\Debug\ITMO.WinCSCours2023.lab1_up4_MdiApplication.ChildForm.resources
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023.lab1_up4_MdiApplication\obj\Debug\ITMO.WinCSCours2023.lab1_up4_MdiApplication.ParentForm.resources
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023.lab1_up4_MdiApplication\obj\Debug\ITMO.WinCSCours2023.lab1_up4_MdiApplication.Properties.Resources.resources
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023.lab1_up4_MdiApplication\obj\Debug\ITMO.WinCSCours2023.lab1_up4_MdiApplication.csproj.GenerateResource.cache
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023.lab1_up4_MdiApplication\obj\Debug\ITMO.WinCSCours2023.lab1_up4_MdiApplication.csproj.CoreCompileInputs.cache
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023.lab1_up4_MdiApplication\obj\Debug\ITMO.WinCSCours2023.lab1_up4_MdiApplication.exe
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023\ITMO.WinCSCours2023.lab1_up4_MdiApplication\obj\Debug\ITMO.WinCSCours2023.lab1_up4_MdiApplication.pdb
