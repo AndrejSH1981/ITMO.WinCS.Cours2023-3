@@ -1,0 +1,10 @@
+D:\занятия\3 курс\ITMO.WinCSCours2023.lab2.up6.BiblWorm\ITMO.WinCSCours2023.lab2.up6.BiblWorm\bin\Debug\ITMO.WinCSCours2023.lab2.up6.BiblWorm.exe.config
+D:\занятия\3 курс\ITMO.WinCSCours2023.lab2.up6.BiblWorm\ITMO.WinCSCours2023.lab2.up6.BiblWorm\bin\Debug\ITMO.WinCSCours2023.lab2.up6.BiblWorm.exe
+D:\занятия\3 курс\ITMO.WinCSCours2023.lab2.up6.BiblWorm\ITMO.WinCSCours2023.lab2.up6.BiblWorm\bin\Debug\ITMO.WinCSCours2023.lab2.up6.BiblWorm.pdb
+D:\занятия\3 курс\ITMO.WinCSCours2023.lab2.up6.BiblWorm\ITMO.WinCSCours2023.lab2.up6.BiblWorm\obj\Debug\ITMO.WinCSCours2023.lab2.up6.BiblWorm.csproj.AssemblyReference.cache
+D:\занятия\3 курс\ITMO.WinCSCours2023.lab2.up6.BiblWorm\ITMO.WinCSCours2023.lab2.up6.BiblWorm\obj\Debug\ITMO.WinCSCours2023.lab2.up6.BiblWorm.Library.resources
+D:\занятия\3 курс\ITMO.WinCSCours2023.lab2.up6.BiblWorm\ITMO.WinCSCours2023.lab2.up6.BiblWorm\obj\Debug\ITMO.WinCSCours2023.lab2.up6.BiblWorm.Properties.Resources.resources
+D:\занятия\3 курс\ITMO.WinCSCours2023.lab2.up6.BiblWorm\ITMO.WinCSCours2023.lab2.up6.BiblWorm\obj\Debug\ITMO.WinCSCours2023.lab2.up6.BiblWorm.csproj.GenerateResource.cache
+D:\занятия\3 курс\ITMO.WinCSCours2023.lab2.up6.BiblWorm\ITMO.WinCSCours2023.lab2.up6.BiblWorm\obj\Debug\ITMO.WinCSCours2023.lab2.up6.BiblWorm.csproj.CoreCompileInputs.cache
+D:\занятия\3 курс\ITMO.WinCSCours2023.lab2.up6.BiblWorm\ITMO.WinCSCours2023.lab2.up6.BiblWorm\obj\Debug\ITMO.WinCSCours2023.lab2.up6.BiblWorm.exe
+D:\занятия\3 курс\ITMO.WinCSCours2023.lab2.up6.BiblWorm\ITMO.WinCSCours2023.lab2.up6.BiblWorm\obj\Debug\ITMO.WinCSCours2023.lab2.up6.BiblWorm.pdb
