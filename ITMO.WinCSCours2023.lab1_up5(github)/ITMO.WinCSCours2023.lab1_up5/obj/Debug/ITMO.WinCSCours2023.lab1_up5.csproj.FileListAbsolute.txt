@@ -1,0 +1,11 @@
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1\ITMO.WinCSCours2023.lab1_up5\obj\Debug\ITMO.WinCSCours2023.lab1_up5.csproj.AssemblyReference.cache
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1\ITMO.WinCSCours2023.lab1_up5\obj\Debug\ITMO.WinCSCours2023.lab1_up5.Form1.resources
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1\ITMO.WinCSCours2023.lab1_up5\obj\Debug\ITMO.WinCSCours2023.lab1_up5.Properties.Resources.resources
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1\ITMO.WinCSCours2023.lab1_up5\obj\Debug\ITMO.WinCSCours2023.lab1_up5.csproj.GenerateResource.cache
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1\ITMO.WinCSCours2023.lab1_up5\obj\Debug\ITMO.WinCSCours2023.lab1_up5.csproj.CoreCompileInputs.cache
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1\ITMO.WinCSCours2023.lab1_up5\bin\Debug\ITMO.WinCSCours2023.lab1_up5.exe.config
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1\ITMO.WinCSCours2023.lab1_up5\bin\Debug\ITMO.WinCSCours2023.lab1_up5.exe
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1\ITMO.WinCSCours2023.lab1_up5\bin\Debug\ITMO.WinCSCours2023.lab1_up5.pdb
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1\ITMO.WinCSCours2023.lab1_up5\obj\Debug\ITMO.WinCSCours2023.lab1_up5.exe
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1\ITMO.WinCSCours2023.lab1_up5\obj\Debug\ITMO.WinCSCours2023.lab1_up5.pdb
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1\ITMO.WinCSCours2023.lab1_up5\obj\Debug\ITMO.WinCSCours2023.lab1_up5.Form2.resources
