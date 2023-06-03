@@ -1,0 +1,21 @@
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1.up2(github)\ITMO.WinCSCours2023.lab1.up2(github)\bin\Debug\ITMO.WinCSCours2023.lab1.up2(github).exe.config
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1.up2(github)\ITMO.WinCSCours2023.lab1.up2(github)\bin\Debug\ITMO.WinCSCours2023.lab1.up2(github).exe
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1.up2(github)\ITMO.WinCSCours2023.lab1.up2(github)\bin\Debug\ITMO.WinCSCours2023.lab1.up2(github).pdb
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1.up2(github)\ITMO.WinCSCours2023.lab1.up2(github)\obj\Debug\ITMO.WinCSCours2023.lab1.up2(github).csproj.AssemblyReference.cache
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1.up2(github)\ITMO.WinCSCours2023.lab1.up2(github)\obj\Debug\ITMO.WinCSCours2023.lab1.up2_github_.Form1.resources
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1.up2(github)\ITMO.WinCSCours2023.lab1.up2(github)\obj\Debug\ITMO.WinCSCours2023.lab1.up2_github_.Properties.Resources.resources
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1.up2(github)\ITMO.WinCSCours2023.lab1.up2(github)\obj\Debug\ITMO.WinCSCours2023.lab1.up2(github).csproj.GenerateResource.cache
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1.up2(github)\ITMO.WinCSCours2023.lab1.up2(github)\obj\Debug\ITMO.WinCSCours2023.lab1.up2(github).csproj.CoreCompileInputs.cache
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1.up2(github)\ITMO.WinCSCours2023.lab1.up2(github)\obj\Debug\ITMO.WinCSCours2023.lab1.up2(github).exe
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1.up2(github)\ITMO.WinCSCours2023.lab1.up2(github)\obj\Debug\ITMO.WinCSCours2023.lab1.up2(github).pdb
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1.up3(github) - копия\ITMO.WinCSCours2023.lab1.up2(github)\bin\Debug\ITMO.WinCSCours2023.lab1.up2(github).exe.config
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1.up3(github) - копия\ITMO.WinCSCours2023.lab1.up2(github)\bin\Debug\ITMO.WinCSCours2023.lab1.up2(github).exe
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1.up3(github) - копия\ITMO.WinCSCours2023.lab1.up2(github)\bin\Debug\ITMO.WinCSCours2023.lab1.up2(github).pdb
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1.up3(github) - копия\ITMO.WinCSCours2023.lab1.up2(github)\obj\Debug\ITMO.WinCSCours2023.lab1.up2(github).csproj.AssemblyReference.cache
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1.up3(github) - копия\ITMO.WinCSCours2023.lab1.up2(github)\obj\Debug\ITMO.WinCSCours2023.lab1.up2_github_.Form1.resources
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1.up3(github) - копия\ITMO.WinCSCours2023.lab1.up2(github)\obj\Debug\ITMO.WinCSCours2023.lab1.up2_github_.Properties.Resources.resources
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1.up3(github) - копия\ITMO.WinCSCours2023.lab1.up2(github)\obj\Debug\ITMO.WinCSCours2023.lab1.up2(github).csproj.GenerateResource.cache
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1.up3(github) - копия\ITMO.WinCSCours2023.lab1.up2(github)\obj\Debug\ITMO.WinCSCours2023.lab1.up2(github).csproj.CoreCompileInputs.cache
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1.up3(github) - копия\ITMO.WinCSCours2023.lab1.up2(github)\obj\Debug\ITMO.WinCSCours2023.lab1.up2(github).exe
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1.up3(github) - копия\ITMO.WinCSCours2023.lab1.up2(github)\obj\Debug\ITMO.WinCSCours2023.lab1.up2(github).pdb
+D:\занятия\3 курс\ITMO.Cours2023\ITMO.WinCSCours2023.lab1.up3(github) - копия\ITMO.WinCSCours2023.lab1.up2(github)\obj\Debug\ITMO.WinCSCours2023.lab1.up2_github_.nForm.resources
